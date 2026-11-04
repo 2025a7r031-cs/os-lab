@@ -3,7 +3,7 @@ Operating Systems Laboratory (OS-LAB)
 
 Welcome to the OS-LAB repository. This repository contains C programs and implementation guides for Operating Systems laboratory experiments, covering process management, CPU scheduling, system calls, and inter-process communication.
 
-📌 Repository Structure
+##📌 Repository Structure
 text
 OS-LAB/
 │
